@@ -57,7 +57,7 @@ Bu dizin, GSB Gençlik Merkezlerinde düzenlenen 12 saatlik Dijital Okuryazarlı
 
 ### 🤖 9. Ders: Yapay Zeka Temelleri
 - **Ders Planı**: [`/ders_notlari/09_yapay_zeka/ders_plani.md`](./ders_notlari/09_yapay_zeka/ders_plani.md)
-- **AI Araçları Listesi**: [`/kaynaklar/`](./kaynaklar/)
+- **AI Araçları Rehberi**: Ders notları içinde detaylandırılmıştır
 - **Süre**: 60 dakika
 - **Hedefler**: AI farkındalığı, günlük kullanım, etik boyut
 
@@ -100,20 +100,11 @@ gsb_eğitim/
 │   ├── 10_chatgpt/
 │   ├── 11_capcut/
 │   └── 12_sosyal_medya_etik/
-├── ornek_calisma/                     # Örnek projeler ve şablonlar
-│   ├── canva_ornekleri/
-│   ├── google_workspace/
-│   ├── proje_yonetimi/
-│   └── video_ornekleri/
-└── kaynaklar/                         # Ek materyaller ve kaynaklar
-    ├── web_2_0_rehberi.pdf
-    ├── gorsel_1.jpg
-    ├── gorsel_2.jpg
-    ├── gorsel_3.jpg
-    ├── gorsel_4.jpg
-    ├── gorsel_5.jpg
-    ├── gorsel_6.jpg
-    └── gorsel_7.jpg
+└── ornek_calisma/                     # Örnek projeler ve şablonlar
+    ├── canva_ornekleri/
+    ├── google_workspace/
+    ├── proje_yonetimi/
+    └── video_ornekleri/
 ```
 
 ---

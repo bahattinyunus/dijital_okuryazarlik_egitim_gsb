@@ -1,0 +1,155 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+*.tmp
+*.temp
+~$*
+
+# Office Files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# Backup Files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# Archive Files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+
+# Node.js (if any web components added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Python (if any automation scripts added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+.env
+
+# Logs
+logs/
+*.log
+log/
+*.log.*
+
+# Personal Notes and Drafts
+personal_notes/
+draft*/
+temp*/
+*_draft.*
+*_temp.*
+
+# Large Media Files (videos, high-res images)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.3gp
+
+# High Resolution Images
+*_4k.*
+*_hd.*
+*_original.*
+
+# Sensitive Information
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets/
+private/
+confidential/
+
+# Build and Distribution
+dist/
+build/
+out/
+
+# Package Files
+*.dmg
+*.pkg
+*.msi
+*.exe
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache Files
+.cache/
+cache/
+.tmp/
+
+# Local Configuration
+local.properties
+.local
+
+# Email and Contact Files (privacy)
+*.vcf
+*.eml
+
+# Compressed Files
+*.gz
+*.bz2
+*.xz
+
+# Version Control
+.svn/
+.hg/
+
+# Temporary Internet Files
+Temporary Internet Files/
+
+# GSB Specific Ignores
+# Add any GSB-specific files that shouldn't be tracked
+gsb_internal/
+admin_only/
+participant_data/
+personal_submissions/
+
+# Workshop Materials (if containing personal info)
+workshop_outputs/
+student_projects/
+evaluation_forms/
+
+# Comments for maintainers
+# This .gitignore is designed for educational content repository
+# Feel free to add project-specific ignores as needed
