@@ -330,9 +330,55 @@ Kısa ve somut örnekler seçin; iyi uygulamaları görünür kılın.
 
 ---
 
+
 ## ❓ Soru-Cevap
+
 - Veritabanı ve ilişkilendirme senaryoları
+
 - Görünümler ve filtreleme ipuçları
+
 - Şablonlar ve paylaşım stratejileri
 
+
+
 Teşekkürler! Bilginizi sistemleştirmek için güçlü bir temel attınız. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, güçlü bir görsel hikaye ve kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 🧱 Blok mantığı: Başlık, metin, liste ve çağrı kutularını bloklarla düzenleyin
+- 🗂️ Sayfa hiyerarşisi: Ana sayfa → Alt sayfalar → Veritabanları şeklinde net yapı kurun
+- 🧮 Veritabanı görünümleri: Table + Board + Calendar kombinasyonuyla farklı bakışlar oluşturun
+- 🔗 Relation/Rollup: İlişkili verileri tek ekranda özetleyin
+- 🧩 Şablonlar: Tekrarlayan içerikler için sayfa/veri satırı şablonları kullanın
+- ♿ Erişilebilirlik: Başlık hiyerarşisi, kontrast ve okunabilir font boyutlarına dikkat edin

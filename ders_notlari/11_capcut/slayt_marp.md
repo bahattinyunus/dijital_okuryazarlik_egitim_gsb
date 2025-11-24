@@ -267,9 +267,56 @@ Zamanı sıkı tutun, izleyici deneyimini önceliklendiren örnekleri görünür
 
 ---
 
+
 ## ❓ Soru-Cevap
+
 - Kurgu ritmi, metin yerleşimi
+
 - Ses miksajı ve müzik seçimi
+
 - Dışa aktarma ve kalite ayarları
 
+
+
 Teşekkürler! Akıcı ve etkileyici kısa videolar için hazırsınız. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, güçlü bir görsel hikaye ve kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 🎬 Format: 9:16 (1080×1920) — platforma uygun oranı baştan seç
+- ✂️ Ritim: Kesimleri müzik vuruşlarına hizala, kaba kurgu → ince kurgu
+- 🗣️ Ses dengesi: Diyalog > Müzik > Efekt; fade in/out ile yumuşak geçiş
+- 📝 Metin/Altyazı: Kısa başlıklar, okunur altyazı; gölge/kenarlık ile kontrast
+- 🖼️ Güvenli alan: Metin ve logo’yu kenarlardan uzak tut
+- 🎨 Tutarlılık: Tek filtre ve az sayıda geçiş ile sade görünüm
+- 📤 Export: MP4, 1080p, 30 fps, 8–12 Mbps (sosyal platformlar için ideal)

@@ -234,7 +234,63 @@ Zamanı sıkı tutun. Alkış ve teşvik kültürünü güçlendirin.
 
 ---
 
+
+
+## 📸 Görsel Vitrin (Örnek Slayt Tasarımları)
+
+
+
+<div class="grid-3">
+
+  <figure>
+
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+
+    <figcaption>Kapak — Gradient arkaplan + başlık</figcaption>
+
+  </figure>
+
+  <figure>
+
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+
+    <figcaption>İçerik — 2 sütun içerik + ikonlar</figcaption>
+
+  </figure>
+
+  <figure>
+
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+
+    <figcaption>Görsel — Tam genişlik fotoğraf</figcaption>
+
+  </figure>
+
+</div>
+
+
+
+---
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, güçlü bir görsel hikaye ve kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+## 💡 İkonlu İpuçları
+
+- 🎯 Net hedef: Sunumun amacı ve hedef kitleni baştan belirle
+- 🧭 Yapı: Başlık hiyerarşisi + az metin, çok görsel
+- ✅ Tutarlılık: En fazla 2 font, sınırlı renk paleti
+- 🖼️ Görseller: Yüksek çözünürlük ve aynı stil
+- ♿ Erişilebilirlik: Yeterli kontrast, okunur font boyutu
+
 ## 🔗 Yararlı Kaynaklar
+
+
 - Google Slides Yardım: https://support.google.com/docs/answer/2763168
 - Slidesgo Şablonları: https://slidesgo.com/google-slides-themes
 - Flaticon İkonları: https://www.flaticon.com/

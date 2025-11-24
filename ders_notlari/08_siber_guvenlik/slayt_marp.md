@@ -301,10 +301,55 @@ Somut, uygulanabilir planları öne çıkarın; karmaşık araçlara boğmayın.
 
 ---
 
+
 ## ❓ Soru-Cevap
+
 - 2FA ve parola kasası seçimi
+
 - Phishing doğrulama örnekleri
+
 - Yedekleme ve geri yükleme pratikleri
+
 - Cihaz/ağ güvenliği senaryoları
+
+
+
+---
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, güvenlik temasını vurgulayan kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+## 💡 İkonlu İpuçları
+
+- 🔐 Güçlü parola: En az 12–14 karakter, her hesap için benzersiz
+- 🛡️ 2FA/MFA: Kritik hesaplarda doğrulama uygulamasını etkinleştir
+- 🎭 Phishing: Göndereni, linki ve eki doğrula; şüpheliyse tarayıcıdan kendin git
+- 🔄 Güncellemeler: Sistem ve uygulamaları düzenli güncelle
+- 💾 Yedekleme: 3-2-1 kuralı; düzenli geri yükleme testleri yap
+- 🌐 Ortak Wi‑Fi: HTTPS zorunlu; mümkünse VPN; paylaşımı kapat
+- 🔏 Gizlilik: Gereksiz erişimleri kapat, paylaşımları düzenli gözden geçir
 
 Teşekkürler! Güvende kalmak bir alışkanlık meselesi. 🚀

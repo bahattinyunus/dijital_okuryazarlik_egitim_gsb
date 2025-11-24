@@ -304,4 +304,47 @@ Kaçınılacaklar:
 - Offline ve Drive for desktop kullanımı
 - Sürüm/geri yükleme stratejileri
 
+
 Teşekkürler! Düzenli Drive ile verimliliğiniz artacak. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, Drive düzeni ve paylaşım kurallarını vurgulayan kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 📁 Klasör hiyerarşisi: “01_Dokumanlar / 02_Sunumlar / 03_Gorseller …” gibi net yapı kur
+- 🏷️ Adlandırma: Tarih_İsim_Versiyon (örn. 2024-11-24_toplanti-notu_v2)
+- ⭐ Hızlı erişim: Yıldızlı öğelerle sık kullandıklarını öne al
+- 🔗 Kısayol: Tek dosyayı birden çok yerde göstermek için kısayol kullan
+- 🔒 Paylaşım: “Kısıtlı → davetliler” öncelikli; “Bağlantıya sahip”i gereksiz kullanma
+- 🕓 Sürüm: Google dosyalarında sürüm geçmişini adlandırarak takip et
+- 🌐 Offline: Önemli klasörleri çevrimdışı önbelleğe al (Drive for desktop)
+- ♻️ Arşiv: “99_Arsiv” klasörü ile düzenli temizlik yap

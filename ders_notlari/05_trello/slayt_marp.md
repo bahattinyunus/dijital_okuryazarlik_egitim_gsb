@@ -281,10 +281,57 @@ Zamanı planlı tutun ve iyi örnekleri görünür kılın.
 
 ---
 
+
 ## ❓ Soru-Cevap
+
 - Pano tasarımı ve akış
+
 - Butler kural senaryoları
+
 - Power-Up seçimleri
+
 - Ekip kullanım pratikleri
 
+
+
 Teşekkürler! Düzenli akış ve net sorumluluklarla güçlü takımlar kurmaya hazırsınız. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, pano akışını anlatan kısa bir mesaj ve tek cümlelik ana fikirle kullanın.
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 🧭 Akış: To Do → Doing → Review → Done dizilimini basit tut
+- 🔖 Etiketler: Az ve anlamlı label paleti kullan, ekipte standartlaştır
+- ⛳ WIP limiti: Doing listesindeki iş sayısını sınırlayarak odağı koru
+- ☑️ Checklist: Adımları görünür kıl; ilerleme yüzdesini takip et
+- ⏰ Due date: Son tarih + hatırlatıcı ile zaman yönetimini netleştir
+- 🤖 Butler: Küçük otomasyon kurallarıyla tekrarlı işleri azalt

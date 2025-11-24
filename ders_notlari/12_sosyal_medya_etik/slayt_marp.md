@@ -267,4 +267,47 @@ Teslim: Paylaşılacak örnek içerik + plan dokümanı.
 - Raporlama ve platform politikaları
 - Zaman yönetimi ve iyi olma hâli
 
+
 Teşekkürler! Sorumlu ve saygılı dijital vatandaşlık yolculuğuna hazırsınız. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, etik ve sorumlu paylaşımı vurgulayan kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 🤝 Rıza: Başkalarının görsel/sesini paylaşmadan önce açık onam al
+- 🔍 Doğrulama: Kaynak, tarih ve bağlamı en az 2–3 güvenilir kaynaktan kontrol et
+- 🔒 Gizlilik: Kişisel verileri (konum, okul, kimlik bilgileri) ifşa etme
+- 🎭 Nefret/zorbalık: İhlalleri raporla; engelle, kanıtla ve ilgili kurumlarla paylaş
+- 🎼 Telif/atıf: Lisanslı içerik kullan; uygun atıf ver; belirsizse kullanma
+- ⏱️ Zaman yönetimi: Bildirimleri yönet; amaçlı kullanım blokları oluştur
+- ♿ Erişilebilirlik: Alt metin/altyazı ekle; yeterli kontrast ve okunur font kullan
+

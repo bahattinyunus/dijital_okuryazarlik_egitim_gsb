@@ -239,9 +239,55 @@ Zamanı sıkı tutun, olumlu geri bildirim kültürünü vurgulayın.
 
 ---
 
+
 ## ❓ Soru-Cevap
+
 - Tasarım ipuçları
+
 - Canva özellikleri
+
 - Dosya formatları ve çıktı
 
+
+
 Teşekkürler! Yaratıcı üretimler için hazırsınız. 🚀
+
+---
+
+## 📸 Görsel Vitrin (Örnek Slaytlar)
+
+<div class="grid-3">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?w=1200&q=80&auto=format&fit=crop" alt="Kapak örneği" class="rounded shadow">
+    <figcaption>Kapak — Gradient arkaplan + güçlü başlık</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop" alt="İçerik örneği" class="rounded shadow">
+    <figcaption>İçerik — 2 sütun düzen + ikonlar</figcaption>
+  </figure>
+  <figure>
+    <img src="https://images.unsplash.com/photo-1529336953121-adffdf0f7fbf?w=1200&q=80&auto=format&fit=crop" alt="Görsel ağırlıklı slayt" class="rounded shadow">
+    <figcaption>Görsel — Görsel odaklı anlatım</figcaption>
+  </figure>
+</div>
+
+---
+
+## 🖼️ Tam Genişlik Görsel
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80&auto=format&fit=crop" alt="Tam genişlik slayt örneği" class="full-bleed rounded shadow">
+
+<div class="note">
+Bu slaytı, güçlü bir görsel hikaye ve kısa bir mesajla kullanın (maks. 1 satır).
+</div>
+
+---
+
+## 💡 İkonlu İpuçları
+
+- 🎯 Net hedef: Ne tasarladığını ve hedef kitleyi belirle
+- 🖼️ Hiyerarşi: Başlık > görsel > destekleyici metin
+- ✅ Tutarlılık: En fazla 2 font, sınırlı renk paleti
+- 🧭 Hizalama: Izgara ve kılavuzlarla düzenli yerleşim
+- ✨ Az ve öz efekt: Aşırı gölge/animasyondan kaçın
+- ♿ Erişilebilirlik: Yeterli kontrast ve okunur font boyutu
