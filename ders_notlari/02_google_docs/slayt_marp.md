@@ -28,8 +28,16 @@ style: |
   .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; background: #F3F4F6; border: 1px solid #E5E7EB; padding: 2px 6px; border-radius: 6px; }
 ---
 
+
 <!-- _class: lead -->
+
 # Google Dokümanlar
+<div class="card" style="margin-top: 12px;">
+  <div class="pill">GSB Dijital Okuryazarlık</div>
+  <h2 style="margin: 10px 0 4px;">Bulut Tabanlı Yazım Becerileri</h2>
+  <p style="margin: 0; color: #374151;">2. Ders · Süre: 60 dk · Seviye: Başlangıç · Uygulamalı</p>
+</div>
+
 ## Bulut Tabanlı Yazım Becerileri
 GSB Dijital Okuryazarlık — 2. Ders
 

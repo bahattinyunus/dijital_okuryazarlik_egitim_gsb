@@ -30,9 +30,18 @@ style: |
   .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; background: #F3F4F6; border: 1px solid #E5E7EB; padding: 2px 6px; border-radius: 6px; }
 ---
 
+
 <!-- _class: lead -->
+
 # ChatGPT
+
+<div class="card" style="margin-top: 12px;">
+  <div class="pill">GSB Dijital Okuryazarlık</div>
+  <h2 style="margin: 10px 0 4px;">Doğru Prompt Yazma</h2>
+  <p style="margin: 0; color: #374151;">10. Ders · Süre: 60 dk · Seviye: Başlangıç–Orta · Uygulamalı</p>
+</div>
 ## Doğru Prompt Yazma
+
 GSB Dijital Okuryazarlık — 10. Ders
 
 - Süre: 60 dakika

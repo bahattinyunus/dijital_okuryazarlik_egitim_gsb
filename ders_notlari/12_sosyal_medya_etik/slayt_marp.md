@@ -30,8 +30,16 @@ style: |
   .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; background: #F3F4F6; border: 1px solid #E5E7EB; padding: 2px 6px; border-radius: 6px; }
 ---
 
+
 <!-- _class: lead -->
+
 # Sosyal Medya ve Dijital Etik
+<div class="card" style="margin-top: 12px;">
+  <div class="pill">GSB Dijital Okuryazarlık</div>
+  <h2 style="margin: 10px 0 4px;">Sorumlu, Güvenli ve Saygılı Kullanım</h2>
+  <p style="margin: 0; color: #374151;">12. Ders · Süre: 60 dk · Seviye: Başlangıç · Uygulamalı</p>
+</div>
+
 ## Sorumlu, Güvenli ve Saygılı Kullanım
 GSB Dijital Okuryazarlık — 12. Ders
 
