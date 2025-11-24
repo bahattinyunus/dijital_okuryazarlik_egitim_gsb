@@ -9,72 +9,84 @@ Bu dizin, GSB Gençlik Merkezlerinde düzenlenen 12 saatlik Dijital Okuryazarlı
 
 ### 🎨 1. Ders: Canva - Dijital Tasarımın Temelleri
 - **Ders Planı**: [`/ders_notlari/01_canva/ders_plani.md`](./ders_notlari/01_canva/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/01_canva/slayt_marp.md`](./ders_notlari/01_canva/slayt_marp.md)
 - **Örnek Çalışmalar**: [`/ornek_calisma/canva_ornekleri/proje_onerileri.md`](./ornek_calisma/canva_ornekleri/proje_onerileri.md)
 - **Süre**: 60 dakika
 - **Hedefler**: Temel grafik tasarım, afiş/poster oluşturma, sosyal medya grafiği
 
 ### 📝 2. Ders: Google Dokümanlar - Bulut Tabanlı Yazım
 - **Ders Planı**: [`/ders_notlari/02_google_docs/ders_plani.md`](./ders_notlari/02_google_docs/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/02_google_docs/slayt_marp.md`](./ders_notlari/02_google_docs/slayt_marp.md)
 - **Şablonlar**: [`/ornek_calisma/google_workspace/dokuman_sablonlari.md`](./ornek_calisma/google_workspace/dokuman_sablonlari.md)
 - **Süre**: 60 dakika
 - **Hedefler**: İşbirlikçi yazım, belge paylaşımı, bulut depolama
 
 ### 📊 3. Ders: Google Slaytlar - Sunum Hazırlama
 - **Ders Planı**: [`/ders_notlari/03_google_slides/ders_plani.md`](./ders_notlari/03_google_slides/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/03_google_slides/slayt_marp.md`](./ders_notlari/03_google_slides/slayt_marp.md)
 - **Örnek Sunumlar**: [`/ornek_calisma/google_workspace/`](./ornek_calisma/google_workspace/)
 - **Süre**: 60 dakika
 - **Hedefler**: Etkili sunum teknikleri, görsel tasarım, animasyon
 
 ### 📋 4. Ders: Google Formlar - Anket Oluşturma  
 - **Ders Planı**: [`/ders_notlari/04_google_forms/ders_plani.md`](./ders_notlari/04_google_forms/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/04_google_forms/slayt_marp.md`](./ders_notlari/04_google_forms/slayt_marp.md)
 - **Form Örnekleri**: [`/ornek_calisma/google_workspace/`](./ornek_calisma/google_workspace/)
 - **Süre**: 60 dakika
 - **Hedefler**: Quiz tasarımı, veri toplama, otomatik analiz
 
 ### 📌 5. Ders: Trello - Dijital Planlama
 - **Ders Planı**: [`/ders_notlari/05_trello/ders_plani.md`](./ders_notlari/05_trello/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/05_trello/slayt_marp.md`](./ders_notlari/05_trello/slayt_marp.md)
 - **Proje Şablonları**: [`/ornek_calisma/proje_yonetimi/`](./ornek_calisma/proje_yonetimi/)
 - **Süre**: 60 dakika
 - **Hedefler**: Kanban metodolojisi, proje yönetimi, ekip çalışması
 
 ### 📓 6. Ders: Notion - Bilgi Yönetimi
 - **Ders Planı**: [`/ders_notlari/06_notion/ders_plani.md`](./ders_notlari/06_notion/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/06_notion/slayt_marp.md`](./ders_notlari/06_notion/slayt_marp.md)
 - **Şablon Örnekleri**: [`/ornek_calisma/proje_yonetimi/`](./ornek_calisma/proje_yonetimi/)
 - **Süre**: 60 dakika
 - **Hedefler**: Dijital not alma, veritabanı oluşturma, kişisel organizasyon
 
 ### 💾 7. Ders: Google Drive - Dosya Yönetimi
 - **Ders Planı**: [`/ders_notlari/07_google_drive/ders_plani.md`](./ders_notlari/07_google_drive/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/07_google_drive/slayt_marp.md`](./ders_notlari/07_google_drive/slayt_marp.md)
 - **Organizasyon Rehberi**: [`/ornek_calisma/google_workspace/`](./ornek_calisma/google_workspace/)
 - **Süre**: 60 dakika
 - **Hedefler**: Bulut depolama, dosya paylaşımı, yedekleme stratejileri
 
 ### 🔒 8. Ders: Siber Güvenlik Temelleri
 - **Ders Planı**: [`/ders_notlari/08_siber_guvenlik/ders_plani.md`](./ders_notlari/08_siber_guvenlik/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/08_siber_guvenlik/slayt_marp.md`](./ders_notlari/08_siber_guvenlik/slayt_marp.md)
 - **Güvenlik Kontrol Listesi**: [`/ornek_calisma/`](./ornek_calisma/)
 - **Süre**: 60 dakika
 - **Hedefler**: Güvenli şifre, 2FA, phishing farkındalığı
 
 ### 🤖 9. Ders: Yapay Zeka Temelleri
 - **Ders Planı**: [`/ders_notlari/09_yapay_zeka/ders_plani.md`](./ders_notlari/09_yapay_zeka/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/09_yapay_zeka/slayt_marp.md`](./ders_notlari/09_yapay_zeka/slayt_marp.md)
 - **AI Araçları Rehberi**: Ders notları içinde detaylandırılmıştır
 - **Süre**: 60 dakika
 - **Hedefler**: AI farkındalığı, günlük kullanım, etik boyut
 
 ### 💬 10. Ders: ChatGPT - Prompt Yazma
 - **Ders Planı**: [`/ders_notlari/10_chatgpt/ders_plani.md`](./ders_notlari/10_chatgpt/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/10_chatgpt/slayt_marp.md`](./ders_notlari/10_chatgpt/slayt_marp.md)
 - **Prompt Örnekleri**: [`/ornek_calisma/`](./ornek_calisma/)
 - **Süre**: 60 dakika
 - **Hedefler**: Etkili prompt teknikleri, araştırma desteği, yaratıcı kullanım
 
 ### 🎬 11. Ders: CapCut - Video Düzenleme
 - **Ders Planı**: [`/ders_notlari/11_capcut/ders_plani.md`](./ders_notlari/11_capcut/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/11_capcut/slayt_marp.md`](./ders_notlari/11_capcut/slayt_marp.md)
 - **Video Projeleri**: [`/ornek_calisma/video_ornekleri/`](./ornek_calisma/video_ornekleri/)
 - **Süre**: 60 dakika
 - **Hedefler**: Basit video montajı, efekt kullanımı, sosyal medya içeriği
 
 ### 🌐 12. Ders: Sosyal Medya ve Dijital Etik
 - **Ders Planı**: [`/ders_notlari/12_sosyal_medya_etik/ders_plani.md`](./ders_notlari/12_sosyal_medya_etik/ders_plani.md)
+- **Slayt (Marp)**: [`/ders_notlari/12_sosyal_medya_etik/slayt_marp.md`](./ders_notlari/12_sosyal_medya_etik/slayt_marp.md)
 - **Etik Senaryolar**: [`/ornek_calisma/`](./ornek_calisma/)
 - **Süre**: 60 dakika
 - **Hedefler**: Dijital vatandaşlık, bilgi kirliliği, sorumlu paylaşım
