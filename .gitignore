@@ -97,10 +97,20 @@ secrets/
 private/
 confidential/
 
+
 # Build and Distribution
+
 dist/
+
 build/
+
 out/
+
+# Allow tracking PPTX slide outputs under dist/slides
+!dist/slides/
+!dist/slides/**/
+!dist/slides/**/*.pptx
+
 
 # Package Files
 *.dmg
