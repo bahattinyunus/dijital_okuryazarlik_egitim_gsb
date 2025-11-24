@@ -33,7 +33,10 @@ style: |
 
 <!-- _class: lead -->
 
+
 # ChatGPT
+<div class="lesson-badge"><span class="number">10</span><span class="label">Ders</span></div>
+
 
 <div class="card" style="margin-top: 12px;">
   <div class="pill">GSB Dijital Okuryazarlık</div>

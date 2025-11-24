@@ -35,7 +35,10 @@ style: |
 
 # CapCut
 
+
+<div class="lesson-badge"><span class="number">11</span><span class="label">Ders</span></div>
 <div class="card" style="margin-top: 12px;">
+
   <div class="pill">GSB Dijital Okuryazarlık</div>
   <h2 style="margin: 10px 0 4px;">Basit Video Düzenleme</h2>
   <p style="margin: 0; color: #374151;">11. Ders · Süre: 60 dk · Seviye: Başlangıç · Uygulamalı</p>

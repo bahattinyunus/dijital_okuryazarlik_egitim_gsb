@@ -323,6 +323,70 @@ section.lead::before {
 
 /* Yardımcı Sınıflar */
 
+/* Ders numarası rozeti (kapak ve içerik slaytlarında kullanılabilir) */
+.lesson-badge {
+    position: absolute;
+    top: 96px; /* Kapak hizası için üst boşluk */
+    left: 60px; /* Sol hizalama */
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: var(--gsb-bg-alt);
+    border: 2px solid var(--gsb-primary);
+    color: var(--gsb-primary);
+    font-weight: 800;
+    box-shadow: var(--gsb-shadow);
+    z-index: 10;
+}
+
+.lesson-badge .number {
+    width: 48px;
+    height: 48px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    line-height: 1;
+    color: #fff;
+    background: linear-gradient(135deg, var(--gsb-primary) 0%, #56ccf2 100%);
+    box-shadow: 0 4px 12px rgba(47, 128, 237, 0.25);
+}
+
+.lesson-badge .label {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--gsb-text);
+}
+
+/* Kapak (lead) slaytı için biraz daha büyük rozet */
+section.lead .lesson-badge {
+    top: 110px;
+}
+section.lead .lesson-badge .number {
+    width: 56px;
+    height: 56px;
+    font-size: 32px;
+}
+
+/* Karanlık temada okunabilirlik için küçük iyileştirme */
+@media (prefers-color-scheme: dark) {
+    .lesson-badge {
+        background: rgba(255, 255, 255, 0.06);
+        border-color: rgba(86, 204, 242, 0.65);
+    }
+    .lesson-badge .label {
+        color: var(--gsb-muted);
+    }
+}
+
+/* Rozeti istemeyen slaytlar için */
+section.no-badge .lesson-badge {
+    display: none;
+}
+
 /* Rozet / etiket */
 .pill {
     display: inline-block;

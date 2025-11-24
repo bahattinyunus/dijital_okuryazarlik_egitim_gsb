@@ -31,8 +31,12 @@ style: |
 ---
 
 
+
 # Yapay Zeka
+
+<div class="lesson-badge"><span class="number">9</span><span class="label">Ders</span></div>
 <div class="card" style="margin-top: 12px;">
+
   <div class="pill">GSB Dijital Okuryazarlık</div>
   <h2 style="margin: 10px 0 4px;">Temeller ve Uygulamalar</h2>
   <p style="margin: 0; color: #374151;">9. Ders · Süre: 60 dk · Seviye: Başlangıç · Uygulamalı</p>
