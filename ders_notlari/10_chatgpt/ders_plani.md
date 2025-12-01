@@ -69,6 +69,22 @@
 - Sonuçları karşılaştırma ve iyileştirme
 - Etik kullanım kurallarını tartışma
 
+## 🧪 Prompt Lab (15 dakika)
+
+1. **Isınma (5 dk)**  
+   - Her öğrenci aynı konuyla ilgili 2 prompt yazar: biri “kötü”, biri “iyi”.  
+   - ChatGPT çıktıları karşılaştırılır, tahtada “iyi prompt” özellikleri listelenir.
+
+2. **Prompt Dönüştürme (5 dk)**  
+   - Eğitmen 2–3 zayıf prompt örneği verir.  
+   - Gruplar bu promptları CLEAR/RTF formüllerini kullanarak iyileştirir ve sonucu test eder.
+
+3. **Rol Oyunu (5 dk)**  
+   - Öğrencilerden biri “öğretmen”, diğeri “öğrenci prompt yazarı” rolünü alır.  
+   - Öğrenci konu söyler, öğretmen o konu için ideal öğretmen promptunu birlikte kurar.
+
+> **İpucu:** Cihaz yoksa, çıktı örnekleri önceden alınmış ekran görüntüleri üzerinden analiz edilebilir.
+
 ## 📝 Pratik Ödevler
 
 ### Temel Seviye
@@ -217,6 +233,14 @@ Her bölümü 2-3 paragrafta özetle ve objektif yaklaş."
 4. **Refine prompt**: Prompt'u iyileştir
 5. **Test again**: Yeniden dene
 6. **Iterate**: Mükemmelleşene kadar tekrarla
+
+## ✅ Eğitmen Hazırlık Kontrol Listesi
+- [ ] En az bir ChatGPT benzeri araca (ör. ücretsiz plan) giriş hesabı hazır.
+- [ ] Sınıfta kullanılacak 3 zayıf, 3 güçlü prompt örneği önceden yazıldı.
+- [ ] Prompt Lab için basit bir konu listesi hazırlandı (tarih, fen, edebiyat vb.).
+- [ ] Ekran yansıtma veya çıktıları gösterme için teknik altyapı kontrol edildi.
+- [ ] Etik tartışma için 1–2 kısa senaryo not olarak hazırlandı.
+- [ ] Öğrencilerin cihaz erişimi (telefon/bilgisayar) planlandı; yoksa demo planı hazır.
 
 ## 📊 Değerlendirme Kriterleri
 - [ ] ChatGPT'ye başarıyla erişim sağladı

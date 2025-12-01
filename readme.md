@@ -75,6 +75,7 @@ Katılımcıların dijital dünyayı **doğru, güvenli ve üretken** bir şekil
 - Günlük hayatta yapay zeka
 - AI kullanım örnekleri
 - Etik farkındalık
+- Atölye çalışması: [`AI Proje Atölyesi`](./ornek_calisma/yapay_zeka_lab/ai_proje_atolyesi.md)
 
 ### **🔟 Ders: ChatGPT – Doğru Prompt Yazma**
 - Prompt teknikleri

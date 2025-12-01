@@ -10,6 +10,8 @@ Bu klasör, GSB Dijital Okuryazarlık Eğitimi projesinin otomatik scriptlerini 
 |--------|----------|----------|
 | `course_tracker.py` | Öğrenci takip sistemi | Katılım ve proje takibi |
 | `lesson_generator.py` | Ders planı üretici | Yeni ders planları oluşturma |
+| `index_builder.py` | INDEX otomasyon aracı | `python index_builder.py --write` |
+| `content_report.py` | Ders içerik raporu | `python content_report.py` |
 | `utils.py` | Yardımcı fonksiyonlar | Genel utility işlemleri |
 
 ### 🌐 Web Components
@@ -216,6 +218,34 @@ generator.batch_create_lessons(lessons_config)
   ]
 }
 ```
+
+---
+
+## 🧭 index_builder.py
+
+`INDEX.md` dosyasını ders klasörlerini tarayarak otomatik oluşturur. Kullanmadan önce
+proje kökünde olduğunuzdan emin olun:
+
+```bash
+python index_builder.py --write
+```
+
+Bu komut `ders_notlari/` ve `ornek_calisma/` dizinlerini tarar, süre ve hedefleri çıkarır,
+eksik plan ya da slaytları da not olarak raporlar.
+
+---
+
+## 📊 content_report.py
+
+Her ders için plan, slayt, dist çıktısı ve örnek çalışma var mı kontrol ederek kısa özet
+tablosu çıkarır; istenirse JSON rapor üretir.
+
+```bash
+python content_report.py --json-out dist/content_report.json
+```
+
+JSON çıktısı CI veya dashboard entegrasyonlarında kullanılabilir; terminal tablosu ise
+eksikleri hızlıca görmeyi kolaylaştırır.
 
 ---
 

@@ -64,6 +64,40 @@
 - AI araçlarının keşfi ve test edilmesi
 - Gelecek beklentileri ve endişeler paylaşımı
 
+## 🧠 AI Mini Lab (15 dakika)
+
+1. **Prompt Sprint (5 dk)**  
+   - Öğrenciler 2 kişilik gruplarla ChatGPT/Perplexity gibi araçlara aynı soruyu farklı promptlarla sorar.  
+   - Hangi promptun daha iyi sonuç verdiği tartışılır, “prompt iyileştirme” notu alınır.
+
+2. **Görsel Hikaye (5 dk)**  
+   - DALL·E / Canva Magic Media ile “2030’da okulda AI” temasında görsel üretimi.  
+   - Üretilen görseldeki etik riskler/yararlar tahta üzerinde listelenir.
+
+3. **Veri Fısıltısı (5 dk)**  
+   - Kaggle `Titanic`, `Istanbul Weather` gibi küçük veri setlerinden biri seçilir.  
+   - Öğrenciler “Bu veriden hangi AI fikri çıkar?” sorusuna 2 dakikalık mini pitch hazırlar.
+
+> **Not:** Laboratuvar süresi cihaz imkânına göre kısaltılabilir; cihaz yoksa eğitmen demo yapıp öğrenciler sonuçları analiz eder.
+
+## 🗺️ AI Kavram Haritası Atölyesi (10 dakika)
+
+- Büyük kâğıt veya dijital beyaz tahta üzerine üç ana başlık açılır: **Veri**, **Model**, **Etki**.  
+- Öğrenciler post-it/padlet üzerinde kavramları yazıp uygun başlığa yapıştırır (ör: “veri gizliliği” → Etki).  
+- Sonunda her grup kendi haritasını 1 dakikalık lightning talk ile sunar.
+
+## 🧪 Yapay Zeka Proje Atölyesi (Opsiyonel +30 dakika)
+
+- Ayrıntılı rehber: [`AI Proje Atölyesi`](../../ornek_calisma/yapay_zeka_lab/ai_proje_atolyesi.md)
+- 3 aşamalı mini sprint:
+  1. **Veri Hikâyesi** – AI desteğiyle küçük veri setinden içgörü çıkarma
+  2. **AI Tasarım Tuvali** – Problem, kullanıcı, veri kaynağı, risk ve etik kontrol noktalarını doldurma
+  3. **Etik Paneli** – Roller üstlenilip çözümün sınırları tartışılır
+- Çıktılar:
+  - 1 infografik veya rapor
+  - AI çözüm sunumu (1 dakikalık pitch)
+  - Etik kontrol listesi ve aksiyon maddeleri
+
 ## 📝 Pratik Ödevler
 
 ### Temel Seviye
@@ -304,6 +338,14 @@ Sorular:
 - AI-human collaboration normalleşir
 - Yeni etik ve hukuki framework'ler
 ```
+
+## ✅ Eğitmen Hazırlık Kontrol Listesi
+- [ ] ChatGPT/Perplexity gibi ücretsiz bir AI hesabı açıldı, demo promptları hazırlandı.
+- [ ] En az bir görsel üretim aracı (Canva Magic Media veya DALL·E) test edildi.
+- [ ] Mini Lab için örnek veri seti (CSV) indirildi ve paylaşılabilir halde.
+- [ ] Etik senaryolar yazıcıdan alındı veya dijital olarak paylaşıldı.
+- [ ] Öğrenciler için cihaz/bağlantı planı yapıldı; yoksa demo modu senaryosu hazırlandı.
+- [ ] AI kavram haritası için kâğıt, post-it veya dijital tahtaya erişim sağlandı.
 
 ---
 **Eğitmen Notu**: AI konusu hem heyecan verici hem de karmaşık. Öğrencilerin AI'dan korkmadan ama bilinçli yaklaşmalarını sağlayın. Teorik bilgiden ziyade pratik deneyim ve etik farkındalığa odaklanın. AI'ın bir araç olduğunu, insan zekasının yerini alamayacağını vurgulayın.
